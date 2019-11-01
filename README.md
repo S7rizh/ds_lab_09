@@ -1,6 +1,6 @@
 # ds_lab_09
 
-## images are available as first.png and second.png
+![Image 1](https://github.com/S7rizh/ds_lab_09/blob/master/first.png)
 ```
 rs0:PRIMARY> rs.config()
 {
@@ -218,10 +218,9 @@ rs0:PRIMARY> rs.status()
 }
 rs0:PRIMARY>
 ```
-<!-- <img> -->
-
 
 # Second iteration
+![Image 2](https://github.com/S7rizh/ds_lab_09/blob/master/second.png)
 ```
 rs0:PRIMARY> rs.config()
 {
